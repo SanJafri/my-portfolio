@@ -1,0 +1,41 @@
+.footer{
+    width: 100%;
+    padding: 1rem 1rem 1rem 1rem;
+    background-color: #333;
+    color: #fff;
+}
+
+.footer h2 {
+    color: var(--primary-light);
+}
+
+.footer .top{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .social {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.footer .icon {
+    color: var(--primary-light);
+    font-size: 1.8rem; /* Make icons bigger */
+    transition: all 0.3s ease;
+}
+
+/* Optional: Add hover effect */
+.footer .icon:hover {
+    transform: scale(1.2);
+    color: #6B5B95; /* or any color you prefer */
+}
+
+@media screen and (max-width: 1140px) {
+    .footer ul {
+        flex-direction: column;
+    }
+}
