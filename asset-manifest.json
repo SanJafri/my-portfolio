@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b1a6683c.css",
+    "main.js": "/my-portfolio/static/js/main.84a988b6.js",
+    "static/media/Khayalan Forest.png": "/my-portfolio/static/media/Khayalan Forest.fee50d2af7574685f1af.png",
+    "static/media/Khayalan Foreest 2.png": "/my-portfolio/static/media/Khayalan Foreest 2.9818a9f69dcc6582eafd.png",
+    "static/media/fypMob1.png": "/my-portfolio/static/media/fypMob1.526c985482d592dfd3dc.png",
+    "static/media/ChillCake.png": "/my-portfolio/static/media/ChillCake.4e83369505aa9d966ba2.png",
+    "static/media/Fresh1.png": "/my-portfolio/static/media/Fresh1.be8d85d7de6d7c9b0428.png",
+    "static/media/msmMob1.png": "/my-portfolio/static/media/msmMob1.568d8a398347fbb17fa5.png",
+    "static/media/ChillCake3.png": "/my-portfolio/static/media/ChillCake3.ae8f380cd2e2e9bec98f.png",
+    "static/media/carshineX2.png": "/my-portfolio/static/media/carshineX2.17d215f5d56bd2128fa5.png",
+    "static/media/carshineX1.png": "/my-portfolio/static/media/carshineX1.a29ec1d06ce73b411967.png",
+    "static/media/staff2.png": "/my-portfolio/static/media/staff2.a4f0253188156363d90e.png",
+    "static/media/manag1.png": "/my-portfolio/static/media/manag1.cc7e07980a921a08377d.png",
+    "static/media/staff1.png": "/my-portfolio/static/media/staff1.7aa8cfc50e91536a9836.png",
+    "static/media/Pixel Art GIF.gif": "/my-portfolio/static/media/Pixel Art GIF.9c74eec2abcdff25bf8b.gif",
+    "static/media/AdminHomePage.png": "/my-portfolio/static/media/AdminHomePage.c990c4a2b1792ebea8e1.png",
+    "static/media/manag2.png": "/my-portfolio/static/media/manag2.89f3811fdb5f67647da2.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.b1a6683c.css.map": "/my-portfolio/static/css/main.b1a6683c.css.map",
+    "main.84a988b6.js.map": "/my-portfolio/static/js/main.84a988b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a6683c.css",
+    "static/js/main.84a988b6.js"
+  ]
+}
